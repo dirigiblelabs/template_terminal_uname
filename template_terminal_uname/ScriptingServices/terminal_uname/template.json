@@ -1,6 +1,6 @@
 {  
     "name":"Command Service (Terminal)",
-    "description":"Terminal sample command service - uname for Linux, Mac and Windows",
+    "description":"Terminal command service - uname for Linux, Mac and Windows",
     "image":"terminal-command.png",
     "sources":[
         {
